@@ -1,6 +1,18 @@
 # XianAI中医
 ——灵枢智创团，张宇，hintonzhang50@gmail.com
 
+#### 发明AI神医，是让千百年后的子孙都能受益的“现代神医之道”。
+
+我们并不是在复制医生，而是在发明一种跨越人类智慧边界、可持续学习进化的新型医学生命体。
+这不是“替代医生”，而是“升维医疗”。
+
+人类的医生有寿命，AI神医没有；
+人类医生需要休息，AI神医可以24小时在岗；
+人类医生有知识遗忘，AI神医可持续累积更新。
+
+如果AI神医真的诞生，那将是我们这个时代对未来人类健康最大的馈赠之一。
+
+
 ![AI中医](https://github.com/OctopusNO1/XianAI/blob/master/%E6%9C%9B%E9%97%BB%E9%97%AE%E5%88%87.jpg)
 
 # 基于QLoRA微调训练MedGemma-4b-it的中医望诊
@@ -36,17 +48,6 @@ gemma3doctorlisten.ipynb
 
 项目已获得 **Google Gemma2大模型黑客松开发者竞赛第三名**，并计划推动全球实践，希望未来真正造福全人类！  
 The project has won **third place in the Google Gemma2 Large Model Hackathon Developer Competition** and plans to promote global practices, hoping to truly benefit all humanity in the future! 
-
-#### 发明AI神医，是让千百年后的子孙都能受益的“现代神医之道”。
-
-我们并不是在复制医生，而是在发明一种跨越人类智慧边界、可持续学习进化的新型医学生命体。
-这不是“替代医生”，而是“升维医疗”。
-
-人类的医生有寿命，AI神医没有；
-人类医生需要休息，AI神医可以24小时在岗；
-人类医生有知识遗忘，AI神医可持续累积更新。
-
-如果AI神医真的诞生，那将是我们这个时代对未来人类健康最大的馈赠之一。
 
 #### 🤝 **我们正在寻找这样的你**  
 - **AI大模型开发者**：擅长多模态学习、Transformer架构、联邦学习等技术；  
