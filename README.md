@@ -19,13 +19,13 @@ Gemma3开发者大赛，具身人工智能结合传统中医望闻问切项目�
 ![望闻问切.jpg](images/%E6%9C%9B%E9%97%BB%E9%97%AE%E5%88%87.jpg)
 
 # 基于QLoRA微调训练MedGemma-4b-it的中医望诊
-[Gemma3MedGemma.ipynb](Fine-Tuning/Gemma3MedGemma.ipynb)
+[Gemma3MedGemma.ipynb](Fine-Tuning/Gemma3MedGemma.ipynb)     
 
 # 基于Gemini的中医闻诊
-[gemma3doctorlisten.ipynb](Fine-Tuning/gemma3doctorlisten.ipynb)
+[gemma3doctorlisten.ipynb](Fine-Tuning/gemma3doctorlisten.ipynb)      
 
 # 基于Gemma3和多模态RAG的中医问诊
-[AITCMed.ipynb](multimodal-rag/AITCMed.ipynb)
+[AITCMed.ipynb](multimodal-rag/AITCMed.ipynb)        
 ![gemma-3-4b-it.png](images/gemma-3-4b-it.png)
 
 # 基于具身智能大模型Gemini-Robotics的中医切诊
